@@ -96,6 +96,12 @@ enhanced-packet-sniffer/
 
 This project is licensed under the Mozilla Public License 2.0 - see the LICENSE file for details
 
+## Requirements
+
+Check and Install file requirements.txt
+Run by command on CMD
+pip install -r requirements.txt
+
 ## Contact
 
 For any inquiries or issues, please contact Zuveb Kamdoli at [zuvebkamdoli.lord@gmail.com].
